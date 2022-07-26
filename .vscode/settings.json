@@ -1,0 +1,8 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "http.client": {
+        
+    },
+    "instantMongo.port": 8080,
+  
+}
